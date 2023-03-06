@@ -1,19 +1,3 @@
-Authors
-
-:   Russell Mosely \<russellmos1(at)gmail.com\>
-
-Version
-
-:   1
-
-Date
-
-:   03-05-2023
-
-Last Update
-
-:   03-05-2023
-
 # About Me
 
 ## Summary
